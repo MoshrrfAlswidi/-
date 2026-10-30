@@ -1,0 +1,6 @@
+{
+  "name": "المرور جوال - تطبيق المرور الذكي للسائقين",
+  "description": "تطبيق المرور الذكي للسائقين لمتابعة المخالفات، إرسال البلاغات، مراقبة حالة الطرق، وإدارة المركبات ورخص القيادة.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
